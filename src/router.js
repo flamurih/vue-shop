@@ -1,10 +1,10 @@
 import Vue from "vue";
 import Router from "vue-router";
-import Home from "./views/Home.vue";
+import Home from "./views/Home-page.vue";
 import Admin from "./views/Admin.vue";
 import Overview from "./views/Overview.vue";
 import Products from "./views/Products.vue";
-import Orders from "vue-shop\src\components\Admin.vue";
+import Orders from "./views/Orders.vue";
 import Profile from "./views/Profile.vue";
 import {fb} from './firebase'
 

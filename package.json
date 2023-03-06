@@ -10,9 +10,17 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "core-js": "^3.8.3",
+    "firebase": "^9.17.2",
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
-    "vue": "^3.2.13"
+    "sweetalert2": "^11.7.3",
+    "vue": "^3.2.13",
+    "vue-carousel": "^0.18.0",
+    "vue-firestore": "^0.3.30",
+    "vue-router": "^4.1.6",
+    "vue2-editor": "^2.10.3",
+    "vue2-filters": "^0.14.0",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
